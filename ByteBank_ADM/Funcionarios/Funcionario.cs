@@ -44,5 +44,9 @@ namespace ByteBank_ADM.Funcionarios
         //remocao do virtual, para o abstract
         public abstract void AumentarSalario();
 
+
+       
     }
+
+
 }

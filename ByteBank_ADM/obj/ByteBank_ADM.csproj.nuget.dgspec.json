@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj": {}
+    "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj": {
+    "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj",
+        "projectUniqueName": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj",
         "projectName": "ByteBank_ADM",
-        "projectPath": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj",
+        "projectPath": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\ByteBank_ADM\\ByteBank_ADM.csproj",
         "packagesPath": "D:\\Users\\jennifer.sales\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\ByteBank_ADM\\obj\\",
+        "outputPath": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\ByteBank_ADM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

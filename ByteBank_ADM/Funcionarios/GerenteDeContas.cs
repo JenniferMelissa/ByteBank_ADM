@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ByteBank_ADM.SistemaInterno;
 
 namespace ByteBank_ADM.Funcionarios
 {
-    public class GerenteDeContas : Funcionario
+    public class GerenteDeContas : FuncionarioAutenticavel
     {
+        
+
         public GerenteDeContas(string cpf, double salario) : base(cpf, salario)
         {
 
@@ -28,11 +31,5 @@ namespace ByteBank_ADM.Funcionarios
             this.Salario *= 1.05;
         }
 
-
-        public string Senha { get; set; }
-        public bool Autenticar(string senha)
-        {
-            return this.Senha == senha;
-        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\Matematica\\Matematica.csproj": {}
+    "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\Matematica\\Matematica.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\Matematica\\Matematica.csproj": {
+    "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\Matematica\\Matematica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\Matematica\\Matematica.csproj",
+        "projectUniqueName": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\Matematica\\Matematica.csproj",
         "projectName": "Matematica",
-        "projectPath": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\Matematica\\Matematica.csproj",
+        "projectPath": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\Matematica\\Matematica.csproj",
         "packagesPath": "D:\\Users\\jennifer.sales\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jennifer.sales\\source\\repos\\ByteBank_ADM\\Matematica\\obj\\",
+        "outputPath": "D:\\Users\\jennifer.sales\\Desktop\\ByteBank_ADM\\Matematica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
