@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.exe
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.deps.json
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.runtimeconfig.json
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.pdb
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfo.cs
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\refint\ByteBank_ADM.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.pdb
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.genruntimeconfig.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ref\ByteBank_ADM.dll

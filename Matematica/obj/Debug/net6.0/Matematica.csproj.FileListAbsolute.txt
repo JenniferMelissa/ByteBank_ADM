@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\bin\Debug\net6.0\Matematica.exe
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\bin\Debug\net6.0\Matematica.deps.json
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\bin\Debug\net6.0\Matematica.runtimeconfig.json
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\bin\Debug\net6.0\Matematica.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\bin\Debug\net6.0\Matematica.pdb
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.AssemblyInfo.cs
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\refint\Matematica.dll
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.pdb
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\Matematica.genruntimeconfig.cache
+D:\Users\jennifer.sales\source\repos\ByteBank_ADM\Matematica\obj\Debug\net6.0\ref\Matematica.dll
