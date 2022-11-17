@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\bin\Debug\net6.0\Mercado.exe
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\bin\Debug\net6.0\Mercado.deps.json
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\bin\Debug\net6.0\Mercado.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\bin\Debug\net6.0\Mercado.dll
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\bin\Debug\net6.0\Mercado.pdb
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.dll
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\refint\Mercado.dll
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.pdb
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\Mercado.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\ByteBank_ADM\Mercado\obj\Debug\net6.0\ref\Mercado.dll
